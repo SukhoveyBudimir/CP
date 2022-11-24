@@ -1,8 +1,8 @@
 package Repository
 
 import (
-	"CP/internal/model"
 	"context"
+	"github.com/SukhoveyBudimir/CP/internal/model"
 )
 
 type Repository interface {
